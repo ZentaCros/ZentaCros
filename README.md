@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Hamza Azeem
 
-**Data Scientist | AI/ML | Computer Vision | Deep Learning**
+**AI Model Training | Data Science | Computer Vision | Deep Learning**
 
-🎓 BS Data Science @ GIFT University
+🎓 BS Data Science, GIFT University
 📍 Pakistan | 🌐 Open to remote opportunities
 
 ---
@@ -15,7 +15,7 @@
 - 🏆 **Outperformed published baseline by +10.2% to +17.6% F1-score**
 - Built a deep learning system to detect deforestation from satellite imagery across different geographic regions
 - Addressed the challenge that models trained on one region fail on another using domain adaptation and uncertainty-aware prediction
-- Designed the full ML pipeline: data preprocessing, model training, evaluation, ablation studies, and automated report generation
+- Designed the end-to-end ML pipeline: data preprocessing, model training, evaluation across 3 domain pairs, ablation studies, and automated report generation
 
 **Tech:** Python · PyTorch · NumPy · Matplotlib
 
@@ -51,4 +51,4 @@ Tools:        Antigravity · Jupyter · Git · Google Colab · VS Code · Linux
 
 ---
 
-*💡 Open to remote AI/ML roles, internships, and research collaborations*
+*💡 Open to remote AI/ML roles and AI training opportunities*
