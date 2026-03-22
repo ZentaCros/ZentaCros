@@ -7,17 +7,24 @@
 
 ---
 
-## 🔬 Research
+## 🔬 What I Work On
 
-### Cross-Domain Deforestation Detection using Deep Learning
-*Final Year Project*
+- AI model training and evaluation using GPU (PyTorch, CUDA)
+- Computer Vision: image segmentation, face detection, edge detection
+- End-to-end ML pipelines: preprocessing, training, evaluation, reporting
+- Data analysis and mining on real-world datasets
 
-- 🏆 **Outperformed published baseline by +10.2% to +17.6% F1-score**
-- Built a deep learning system to detect deforestation from satellite imagery across different geographic regions
-- Addressed the challenge that models trained on one region fail on another using domain adaptation and uncertainty-aware prediction
-- Designed the end-to-end ML pipeline: data preprocessing, model training, evaluation across 3 domain pairs, ablation studies, and automated report generation
+---
 
-**Tech:** Python · PyTorch · NumPy · Matplotlib
+## 📂 Projects
+
+| Project | Description |
+|---------|-------------|
+| **Cross-Domain Deforestation Detection** | Deep learning system for satellite imagery, improved over published baseline by +10.2% to +17.6% F1-score |
+| **HealMap** *(In Progress)* | App that tracks diseases, predicts recovery time, and suggests non-drug measures |
+| **Face Detection using HOG** | Face detection pipeline using Histogram of Oriented Gradients with scikit-image |
+| **Canny Edge Detection from Scratch** | Full algorithm in Python: Gaussian smoothing, gradient computation, non-max suppression, hysteresis thresholding |
+| **Data Mining Projects** | Classification, clustering, and association rule mining on real-world datasets |
 
 ---
 
