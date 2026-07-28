@@ -27,7 +27,7 @@
 
 ## 🔬 About Me
 
-- 🎓 **BS Computer Science** at GIFT University (Specializing in Computer Vision & ML).
+- 🎓 **BS Data Science** at GIFT University (Specializing in Computer Vision & ML).
 - 🧠 Focused on **Deep Learning**, **Domain Adaptation**, and **Foundation Models**.
 - 🚀 Built and fine-tuned architectures like **ConvNeXt**, **Prithvi-EO**, and **Llama 3**.
 - 💡 Proven track record of improving SOTA benchmarks (e.g., +23.3% F1-score on deforestation detection).
