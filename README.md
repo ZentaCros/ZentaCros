@@ -87,12 +87,12 @@
 ## 📈 GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZentaCros&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZentaCros&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZentaCros&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZentaCros&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
   
   <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZentaCros&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="98%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZentaCros&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
 </div>
 
 <br/>
