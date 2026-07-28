@@ -11,6 +11,7 @@
 </p>
 
 <p align="center">
+  <a href="https://hamzaazeem.github.io/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/hamza-azeem-data-scientist-86a99925a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/zenta_cross"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
   <a href="https://instagram.com/hamza_azeem_rjpt"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
@@ -88,8 +89,8 @@
 ## 📈 GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZentaCros&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZentaCros&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=ZentaCros&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=ZentaCros&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
   
   <br/>
   
