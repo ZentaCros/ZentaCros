@@ -10,13 +10,9 @@
   Building scalable AI solutions and state-of-the-art machine learning models to solve complex real-world problems.
 </p>
 
-<p align="center">
-  <a href="https://hamzaazeem.page"><img src="https://img.shields.io/badge/View_My_Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a> <a href="https://hamzaazeem.page/resume.pdf"><img src="https://img.shields.io/badge/View_My_Resume-E4405F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
-</p>
+[![Portfolio](https://img.shields.io/badge/View_My_Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://hamzaazeem.page) [![Resume](https://img.shields.io/badge/View_My_Resume-E4405F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://hamzaazeem.page/resume.pdf)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hamza-azeem-data-scientist-86a99925a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://twitter.com/zenta_cross"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a> <a href="https://instagram.com/hamza_azeem_rjpt"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> <a href="https://discord.com/users/zentacross"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="mailto:hmzabizi602@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-azeem-data-scientist-86a99925a/) [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/zenta_cross) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hamza_azeem_rjpt) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/zentacross) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hmzabizi602@gmail.com)
 </div>
 
 <br/>
@@ -36,19 +32,19 @@
 <div align="center">
 
 ### AI & Machine Learning
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white" />
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
 
 ### Computer Vision
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/ConvNeXt-4B5563?style=flat-square&logo=ai&logoColor=white" /> <img src="https://img.shields.io/badge/Prithvi_EO-0033A0?style=flat-square&logo=ibm&logoColor=white" /> <img src="https://img.shields.io/badge/Domain_Adaptation-059669?style=flat-square&logo=cachet&logoColor=white" />
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![ConvNeXt](https://img.shields.io/badge/ConvNeXt-4B5563?style=flat-square&logo=ai&logoColor=white) ![Prithvi EO](https://img.shields.io/badge/Prithvi_EO-0033A0?style=flat-square&logo=ibm&logoColor=white) ![Domain Adaptation](https://img.shields.io/badge/Domain_Adaptation-059669?style=flat-square&logo=cachet&logoColor=white)
 
 ### Data Engineering & Analytics
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/FAISS-336791?style=flat-square&logo=meta&logoColor=white" />
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-336791?style=flat-square&logo=meta&logoColor=white)
 
 ### Software Engineering
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ### Tools
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Cursor_AI-000000?style=flat-square&logo=cursor&logoColor=white" /> <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/Codex-00A67E?style=flat-square&logo=openai&logoColor=white" />
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat-square&logo=google&logoColor=white) ![Cursor AI](https://img.shields.io/badge/Cursor_AI-000000?style=flat-square&logo=cursor&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-00A67E?style=flat-square&logo=openai&logoColor=white)
 
 </div>
 
